@@ -33,7 +33,7 @@ Then select your personal Github account as the location to fork to.
 
 ## 2. Clone Your Fork
 
-Cloning is the process of making a local copy of the lab from your fork on Github.
+Cloning is the process of making a local copy of the lab from your fork on Github.!
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png" alt="Git Workflow 2">
 
